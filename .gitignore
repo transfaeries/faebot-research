@@ -1,2 +1,5 @@
+/twitter*/*
+/.ipynb_checkpoints/*
+/json/*
 archives/*
 
